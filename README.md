@@ -4,6 +4,8 @@
   <img src="https://github.com/cristiana-e/Images/blob/master/cover_korea.jpg?raw=true" >
 </p>
 
+# Introdução
+
 No início de 2021, foi divulgado os dados estatísticos vitais da Coréia do Sul. Pela primeira vez o país obteve maior número de mortes do que de nascimento. Isso preocupou as autoridades coreanas. Quando a taxa de mortalidade ultrapassa a taxa de natalidade, um alerta deve ser emitido e pode ser que algo de muito errado está acontecendo.
 
 *O que é que está acontecendo por lá?*
@@ -14,7 +16,7 @@ No início de 2021, foi divulgado os dados estatísticos vitais da Coréia do Su
 
 ## Obtenção dos Dados
 
-Os dados utilizados nesta análise foram retirados do [Kosis]("https://kosis.kr/eng/index/index.do"), o serviço de informação estatística coreano.
+Os dados utilizados nesta análise foram retirados do [Kosis](https://kosis.kr/eng/index/index.do), o serviço de informação estatística coreano.
 
 Para esta análise exploratória inicial, será baixado apenas o seguinte arquivo:
 
