@@ -14,7 +14,7 @@ No início de 2021, foi divulgado os dados estatísticos vitais da Coréia do Su
 
 ## Obtenção dos Dados
 
-Os dados utilizados nesta análise foram retirados do [Kosis]("https://kosis.kr/eng/index/index.do"), o serviço de informação estatística coreano.
+Os dados utilizados nesta análise foram retirados do [Kosis](https://kosis.kr/eng/index/index.do), o serviço de informação estatística coreano.
 
 Para esta análise exploratória inicial, será baixado apenas o seguinte arquivo:
 
