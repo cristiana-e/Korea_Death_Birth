@@ -4,6 +4,8 @@
   <img src="https://github.com/cristiana-e/Images/blob/master/cover_korea.jpg?raw=true" >
 </p>
 
+# Introdução
+
 No início de 2021, foi divulgado os dados estatísticos vitais da Coréia do Sul. Pela primeira vez o país obteve maior número de mortes do que de nascimento. Isso preocupou as autoridades coreanas. Quando a taxa de mortalidade ultrapassa a taxa de natalidade, um alerta deve ser emitido e pode ser que algo de muito errado está acontecendo.
 
 *O que é que está acontecendo por lá?*
